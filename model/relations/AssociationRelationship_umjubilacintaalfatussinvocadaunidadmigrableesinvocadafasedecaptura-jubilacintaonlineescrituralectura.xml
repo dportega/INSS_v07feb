@@ -25,7 +25,7 @@
       value="Interna del centro"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-jubilacinta.xml#fasedecaptura-jubilacinta"/>
+      href="ApplicationFunction_id-bbe26e8000914e788eb07de405367fce.xml#id-bbe26e8000914e788eb07de405367fce"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_tuss.xml#tuss"/>

@@ -25,7 +25,7 @@
       value="Lectura"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasederesolucinycierre-jubilacinta.xml#fasederesolucinycierre-jubilacinta"/>
+      href="ApplicationFunction_id-28e78f1e9e20416d9ba792b1cb766670.xml#id-28e78f1e9e20416d9ba792b1cb766670"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_prisma.xml#prisma"/>

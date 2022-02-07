@@ -25,7 +25,7 @@
       value="Procedimiento almacenado/Natural"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-jubilacinta.xml#fasedecaptura-jubilacinta"/>
+      href="ApplicationFunction_id-c71fde867c00493d9c11d1f943dec3ec.xml#id-c71fde867c00493d9c11d1f943dec3ec"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_incaatrium.xml#incaatrium"/>

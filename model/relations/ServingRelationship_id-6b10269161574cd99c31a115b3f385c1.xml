@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6b10269161574cd99c31a115b3f385c1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tesol.xml#tesol"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-579119e1bd9d4602927fb3c783775dba.xml#id-579119e1bd9d4602927fb3c783775dba"/>
+</archimate:ServingRelationship>
