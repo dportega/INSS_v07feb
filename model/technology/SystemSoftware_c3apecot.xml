@@ -1,0 +1,80 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3APECOT"
+    id="c3apecot">
+  <properties
+      key="Claves utilizadas"
+      value="ID_PECOT"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="DDM"
+      value="C3UPECOT"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Impresión y envío - Jubilación (TM)"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_AVISOS  ID_REPREEXP"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación Premium"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Espacio asignado"
+      value="39862"/>
+  <properties
+      key="Comentarios"
+      value="Periodos de cotización"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Impresión y envío - Jubilación (TA)"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Fase de la prestación"
+      value="Todas las fases - Orfandad (TA)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+</archimate:SystemSoftware>

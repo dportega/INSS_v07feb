@@ -1,0 +1,110 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3APREVI"
+    id="c3aprevi">
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Orfandad (TM)"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_PROPEVI   ID_SESIONEXP ID_SESEXPASO"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Orfandad (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Orfandad (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_PROPEVIID_SESIONEXPID_EXPEDPROPID_SESEXPASO"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Orfandad (TM)"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Espacio asignado"
+      value="1920"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Comentarios"
+      value="Dictamen propuesta EVI"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Indemnizac por fallecimiento (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="DDM"
+      value="C3UPREVI"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Impresión y envío - Jubilación (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TA)"/>
+</archimate:SystemSoftware>

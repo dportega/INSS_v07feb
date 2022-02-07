@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="umorfandadtaalfaprismainvocanteunidadmigrableinvocafasedeintervencin-orfandadtaplanificadolectura">
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Fase de Intervención - Orfandad (TA)"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <properties
+      key="Periodicidad"
+      value="Planificado"/>
+  <properties
+      key="Tipo de integración"
+      value="Batch"/>
+  <properties
+      key="Descripción"
+      value="Envío a PRISMA (Aplicación de consulta de estadísticas de las aplicaciones del INSS) Ficheros de estadísticas diarias y mensuales de expedientes de ALFA"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedeintervencin-orfandadta.xml#fasedeintervencin-orfandadta"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_prisma.xml#prisma"/>
+</archimate:AssociationRelationship>

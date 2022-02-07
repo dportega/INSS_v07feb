@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="umjubilacintaalfatesolinvocadaunidadmigrableesinvocadafasedecaptura-jubilacintaonlineescrituralectura">
+  <properties
+      key="Sentido de la integración"
+      value="Invocada (Unidad migrable es invocada)"/>
+  <properties
+      key="Descripción"
+      value="Portal de captura de expedientes de jubilación, viudedad, orfandad y defunción para Representantes legales"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Fase de Captura - Jubilación (TA)"/>
+  <properties
+      key="Tipo de operación"
+      value="Escritura/Lectura"/>
+  <properties
+      key="Tipo de integración"
+      value="EntireX (Pros@ - Natural)"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-jubilacinta.xml#fasedecaptura-jubilacinta"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tesol.xml#tesol"/>
+</archimate:AssociationRelationship>

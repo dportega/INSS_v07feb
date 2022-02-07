@@ -1,0 +1,62 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ABRGEN"
+    id="c3abrgen">
+  <properties
+      key="Fase de la prestación"
+      value="Todas las fases - Orfandad (TA)"/>
+  <properties
+      key="Comentarios"
+      value="Datos genéricos para cálculo base reguladora"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TA)"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="DDM"
+      value="C3UBRGEN"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Claves utilizadas"
+      value="GN-SPD-BRGEN"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Espacio asignado"
+      value="16"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+</archimate:SystemSoftware>

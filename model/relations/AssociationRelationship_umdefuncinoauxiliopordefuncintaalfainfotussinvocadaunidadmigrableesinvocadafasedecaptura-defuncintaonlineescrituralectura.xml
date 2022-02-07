@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="umdefuncinoauxiliopordefuncintaalfainfotussinvocadaunidadmigrableesinvocadafasedecaptura-defuncintaonlineescrituralectura">
+  <properties
+      key="Tipo de integración"
+      value="EntireX (Pros@ - Natural)"/>
+  <properties
+      key="Tipo de operación"
+      value="Escritura/Lectura"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocada (Unidad migrable es invocada)"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Fase de Captura - Defunción (TA)"/>
+  <properties
+      key="Descripción"
+      value="Portal de captura de expedientes de jubilación, viudedad, orfandad y defunción para usuarios CAISS"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-defuncinta.xml#fasedecaptura-defuncinta"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_infotuss.xml#infotuss"/>
+</archimate:AssociationRelationship>

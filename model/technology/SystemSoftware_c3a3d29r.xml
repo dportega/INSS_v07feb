@@ -1,0 +1,128 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3A3D29R"
+    id="c3a3d29r">
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Espacio asignado"
+      value="1579"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Jubilación (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Defunción (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Todas las fases - Orfandad (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Indemnizac por fallecimiento (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Indemnizac por fallecimiento (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación Premium"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Jubilación (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Favor de Familiares (TM)"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_3D29R"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación (TM)"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="DDM"
+      value="C3U3D29R"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TM)"/>
+  <properties
+      key="Comentarios"
+      value="Ficha 3D29 de trabajo"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Favor de Familiares (TM)"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Orfandad (TM)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Defunción (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente (TM)"/>
+</archimate:SystemSoftware>

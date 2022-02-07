@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="umincapacidadpermanenteparcialtaalfasepeinvocanteunidadmigrableinvocafasedecaptura-incapacidadpermanenteparcialtaonlinelectura">
+  <properties
+      key="Descripción"
+      value="Recuperación de periodos de subsidios de desempleo del SEPE en captura"/>
+  <properties
+      key="Tipo de integración"
+      value="Procedimiento almacenado/Natural"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Externa (Otros)"/>
+  <properties
+      key="Periodicidad"
+      value="Online"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-incapacidadpermanenteparcialta.xml#fasedecaptura-incapacidadpermanenteparcialta"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sepe.xml#sepe"/>
+</archimate:AssociationRelationship>

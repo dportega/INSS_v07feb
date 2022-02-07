@@ -1,0 +1,32 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="umjubilacintmalfaprismainvocanteunidadmigrableinvocafasedecaptura-jubilacintmplanificadolectura">
+  <properties
+      key="Periodicidad"
+      value="Planificado"/>
+  <properties
+      key="Descripción"
+      value="Envío a PRISMA (Aplicación de consulta de estadísticas de las aplicaciones del INSS) Ficheros de estadísticas diarias y mensuales de expedientes de ALFA"/>
+  <properties
+      key="Sentido de la integración"
+      value="Invocante (Unidad migrable invoca)"/>
+  <properties
+      key="Tipo de integración"
+      value="Batch"/>
+  <properties
+      key="Fase de la prestación en que se realiza la integración"
+      value="Fase de Captura - Jubilación (TM)"/>
+  <properties
+      key="Procedencia/Destino de la integración"
+      value="Interna del centro"/>
+  <properties
+      key="Tipo de operación"
+      value="Lectura"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-jubilacintm.xml#fasedecaptura-jubilacintm"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_prisma.xml#prisma"/>
+</archimate:AssociationRelationship>

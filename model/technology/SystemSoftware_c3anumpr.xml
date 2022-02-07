@@ -1,0 +1,86 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ANUMPR"
+    id="c3anumpr">
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Defunción (TA)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Indemnizac por fallecimiento (TM)"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Espacio asignado"
+      value="0"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Jubilación (TM)"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Favor de Familiares (TM)"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Orfandad (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Jubilación (TA)"/>
+  <properties
+      key="Claves utilizadas"
+      value="NU-SPD-FORDOCPA"/>
+  <properties
+      key="Comentarios"
+      value="Migración de SAINTFORMS a BIRT. Formularios por tipo y párrafo"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Orfandad (TM)"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="DDM"
+      value="C3UNUMPR"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Defunción (TM)"/>
+</archimate:SystemSoftware>

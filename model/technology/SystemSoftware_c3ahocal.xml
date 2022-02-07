@@ -1,0 +1,161 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AHOCAL"
+    id="c3ahocal">
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Indemnizac por fallecimiento (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Defunción (TM)"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Jubilación (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Jubilación (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Jubilación (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Defunción (TA)"/>
+  <properties
+      key="DDM"
+      value="C3UHOCAL"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Favor de Familiares (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_HOJACALC"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TM)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Indemnizac por fallecimiento (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Todas las fases - Orfandad (TA)"/>
+  <properties
+      key="Espacio asignado"
+      value="4950"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Favor de Familiares (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Impresión y envío - Orfandad (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación Premium"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Jubilación (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Comentarios"
+      value="Hoja de cálculo"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Resolución y cierre - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Orfandad (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Impresión y envío - Orfandad (TM)"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TA)"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

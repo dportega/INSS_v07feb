@@ -1,0 +1,53 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ATLOGS"
+    id="c3atlogs">
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Espacio asignado"
+      value="36945"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="Tu Seguridad Social (TUSS): estadísticas y LOG"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Claves utilizadas"
+      value="TL-SPD-IPFFECTL-SPD-SEREFETL-SPD-FESERRETL-SPD-FECHORA"/>
+  <properties
+      key="Fase de la prestación"
+      value="Todas las fases - Orfandad (TA)"/>
+  <properties
+      key="DDM"
+      value="C3UTLOGS"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TA)"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación (TA)"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+</archimate:SystemSoftware>

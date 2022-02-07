@@ -1,0 +1,89 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3ATIRPF"
+    id="c3atirpf">
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Todas las fases - Orfandad (TA)"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="DDM"
+      value="C3UTIRPF"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación Premium"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_RETENCIONID_RETENCION_E"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_RETENCION_E"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Jubilación (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Favor de Familiares (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Jubilación (TM)"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TA)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Comentarios"
+      value="Tabla de IRPF"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Espacio asignado"
+      value="2"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+</archimate:SystemSoftware>

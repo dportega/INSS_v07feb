@@ -1,0 +1,92 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AAN3D3"
+    id="c3aan3d3">
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Orfandad (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Defunción (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Jubilación (TM)"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Comentarios"
+      value="Antecedentes de otras prestaciones"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_ANTEC3D3 AP-SPD-EXPEGISS"/>
+  <properties
+      key="DDM"
+      value="C3UAN3D3"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_ANTEC3D3AP-SPD-EXPEGISS"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Jubilación Premium"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Defunción (TM)"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Favor de Familiares (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Orfandad (TA)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Indemnizac por fallecimiento (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Espacio asignado"
+      value="7236"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Jubilación (TA)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+</archimate:SystemSoftware>

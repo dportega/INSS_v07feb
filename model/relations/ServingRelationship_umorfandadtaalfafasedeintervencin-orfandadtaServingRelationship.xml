@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="umorfandadtaalfafasedeintervencin-orfandadtaServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedeintervencin-orfandadta.xml#fasedeintervencin-orfandadta"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umorfandadtaalfa.xml#umorfandadtaalfa"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="umjubilacintaalfafasederesolucinycierre-jubilacintaServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-jubilacinta.xml#fasederesolucinycierre-jubilacinta"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umjubilacintaalfa.xml#umjubilacintaalfa"/>
+</archimate:ServingRelationship>

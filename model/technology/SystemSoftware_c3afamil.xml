@@ -1,0 +1,80 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C3AFAMIL"
+    id="c3afamil">
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TA)"/>
+  <properties
+      key="Número de registros"
+      value="Entre 100.001 y 1.000.000"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TA)"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Fase de la prestación"
+      value="Todas las fases - Orfandad (TA)"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TA)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Jubilación (TA)"/>
+  <properties
+      key="Comentarios"
+      value="Eliminar el estudio del derecho ASIST. SANITARIA: Familiares que conviven con el futuro familiar"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente (TM)"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Lesiones Permanentes No Invalidantes (TM)"/>
+  <properties
+      key="Espacio asignado"
+      value="54"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Trámite - Defunción (TA)"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="DDM"
+      value="C3UFAMIL"/>
+  <properties
+      key="Claves utilizadas"
+      value="FM-SPD-SUPER1"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Incapacidad Permanente Parcial (TM)"/>
+  <properties
+      key="Número Columnas"
+      value="17"/>
+  <properties
+      key="Claves utilizadas"
+      value="FM-SPD-SUPER1FM-SPD-SUPER2"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Fase de la prestación"
+      value="Fase de Captura - Jubilación (TM)"/>
+</archimate:SystemSoftware>
