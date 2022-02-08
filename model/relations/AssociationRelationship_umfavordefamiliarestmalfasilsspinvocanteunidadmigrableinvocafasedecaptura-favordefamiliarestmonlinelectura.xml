@@ -25,7 +25,7 @@
       value="Fase de Captura - Favor de Familiares (TM)"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-favordefamiliarestm.xml#fasedecaptura-favordefamiliarestm"/>
+      href="ApplicationFunction_id-8dc56115ea53412fac01fcaadfee371d.xml#id-8dc56115ea53412fac01fcaadfee371d"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_silssp.xml#silssp"/>
