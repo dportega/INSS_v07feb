@@ -25,7 +25,7 @@
       value="Online"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-defuncinta.xml#fasedecaptura-defuncinta"/>
+      href="ApplicationFunction_id-f7a0b56084364341ad8473138bd97d31.xml#id-f7a0b56084364341ad8473138bd97d31"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_tesol.xml#tesol"/>
