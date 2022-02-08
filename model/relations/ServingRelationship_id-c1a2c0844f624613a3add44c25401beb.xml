@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c1a2c0844f624613a3add44c25401beb">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedetrmite-jubilacinta.xml#fasedetrmite-jubilacinta"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-b608f6cc1c8c42a58dd1808a8386c82a.xml#id-b608f6cc1c8c42a58dd1808a8386c82a"/>
+</archimate:ServingRelationship>

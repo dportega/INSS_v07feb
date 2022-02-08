@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-14bb63ece4664b0ca548bd1213b3358f">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-f02f22dd6eaa4e059140ac0a89820c08.xml#id-f02f22dd6eaa4e059140ac0a89820c08"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umjubilacintaalfa.xml#umjubilacintaalfa"/>
+</archimate:AssociationRelationship>
