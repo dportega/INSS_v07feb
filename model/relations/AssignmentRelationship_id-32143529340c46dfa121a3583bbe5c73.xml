@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-32143529340c46dfa121a3583bbe5c73">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umindemnizacinporfallecimientotmalfa.xml#umindemnizacinporfallecimientotmalfa"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-indemnizacporfallecimientotm.xml#fasedecaptura-indemnizacporfallecimientotm"/>
+</archimate:AssignmentRelationship>

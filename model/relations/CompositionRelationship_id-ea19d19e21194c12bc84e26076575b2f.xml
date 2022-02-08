@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ea19d19e21194c12bc84e26076575b2f">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedetrmite-indemnizacporfallecimientotm.xml#fasedetrmite-indemnizacporfallecimientotm"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-849f0030d8ec4da4bcd1d482525f3869.xml#id-849f0030d8ec4da4bcd1d482525f3869"/>
+</archimate:CompositionRelationship>

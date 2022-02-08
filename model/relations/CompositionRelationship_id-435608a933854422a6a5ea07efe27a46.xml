@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-435608a933854422a6a5ea07efe27a46">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-566fce14b0a6462bbe9197189eed7356.xml#id-566fce14b0a6462bbe9197189eed7356"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tgssrecaudacin.xml#tgssrecaudacin"/>
+</archimate:CompositionRelationship>
