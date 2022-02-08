@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f43b3bc0662e40d7945c2122e2e82439">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1963043a39c04ce58116cde00f553ee7.xml#id-1963043a39c04ce58116cde00f553ee7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tesol.xml#tesol"/>
+</archimate:CompositionRelationship>
