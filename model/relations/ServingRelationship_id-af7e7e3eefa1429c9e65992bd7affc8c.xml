@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-af7e7e3eefa1429c9e65992bd7affc8c">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-cf788c6841ed461287db2fc439b8299c.xml#id-cf788c6841ed461287db2fc439b8299c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umorfandadtaalfa.xml#umorfandadtaalfa"/>
+</archimate:ServingRelationship>
