@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b807194a59334c75b28af56a847185d0">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-8be5de2e1b0d42369e4cb900383d655f.xml#id-8be5de2e1b0d42369e4cb900383d655f"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-defuncintm.xml#fasederesolucinycierre-defuncintm"/>
+</archimate:ServingRelationship>

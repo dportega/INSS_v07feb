@@ -25,7 +25,7 @@
       value="Planificado"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasederesolucinycierre-defuncintm.xml#fasederesolucinycierre-defuncintm"/>
+      href="ApplicationFunction_id-df7aebe5951a42bc9bdab1e49062ef32.xml#id-df7aebe5951a42bc9bdab1e49062ef32"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_gesfir.xml#gesfir"/>
