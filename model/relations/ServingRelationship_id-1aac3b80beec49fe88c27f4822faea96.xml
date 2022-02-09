@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1aac3b80beec49fe88c27f4822faea96">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-favordefamiliarestm.xml#fasederesolucinycierre-favordefamiliarestm"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3fa9b526daf049c0b3b44ce891ef80fb.xml#id-3fa9b526daf049c0b3b44ce891ef80fb"/>
+</archimate:ServingRelationship>
