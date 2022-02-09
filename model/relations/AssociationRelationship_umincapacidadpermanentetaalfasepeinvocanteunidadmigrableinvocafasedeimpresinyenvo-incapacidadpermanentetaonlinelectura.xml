@@ -25,7 +25,7 @@
       value="Fase de Impresión y envío - Incapacidad Permanente (TA)"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedeimpresinyenvo-incapacidadpermanenteta.xml#fasedeimpresinyenvo-incapacidadpermanenteta"/>
+      href="ApplicationFunction_id-5fa4574919954d4ca5bf7930c7b3b553.xml#id-5fa4574919954d4ca5bf7930c7b3b553"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_sepe.xml#sepe"/>

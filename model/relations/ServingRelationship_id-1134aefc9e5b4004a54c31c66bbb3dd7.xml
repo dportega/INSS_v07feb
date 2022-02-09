@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1134aefc9e5b4004a54c31c66bbb3dd7">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedetrmite-incapacidadpermanenteta.xml#fasedetrmite-incapacidadpermanenteta"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umincapacidadpermanentetmalfa.xml#umincapacidadpermanentetmalfa"/>
+</archimate:ServingRelationship>
