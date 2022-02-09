@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-76cfcd5d4bf64b33a51a84ee41f9b492">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-viudedadta.xml#fasederesolucinycierre-viudedadta"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-eae48fc03e174d1f94dbd895e3ded5c5.xml#id-eae48fc03e174d1f94dbd895e3ded5c5"/>
+</archimate:ServingRelationship>

@@ -1141,8 +1141,8 @@
       textAlignment="1"
       content="Invocante&#xD;&#xA;Batch&#xD;&#xA;Planificado">
     <bounds
-        x="756"
-        y="888"
+        x="720"
+        y="1020"
         width="108"
         height="61"/>
   </children>
