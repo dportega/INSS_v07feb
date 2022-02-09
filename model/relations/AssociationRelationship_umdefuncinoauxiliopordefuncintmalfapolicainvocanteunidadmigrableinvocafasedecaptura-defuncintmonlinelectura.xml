@@ -25,7 +25,7 @@
       value="Fase de Captura - Defunción (TM)"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-defuncintm.xml#fasedecaptura-defuncintm"/>
+      href="ApplicationFunction_id-728a632a72a84194a89cab73a7318fe7.xml#id-728a632a72a84194a89cab73a7318fe7"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_polica.xml#polica"/>

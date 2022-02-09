@@ -1223,7 +1223,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-49686433f4a64d0790049905349478d8"
-        targetConnections="id-5498172d7352407fa27eb9a5582f6030 id-e1c4ec1ffc674254925c29ff18732a68 id-30da50ab658849279212f40d5f7f7929"
+        targetConnections="id-5498172d7352407fa27eb9a5582f6030 id-30da50ab658849279212f40d5f7f7929 id-e1c4ec1ffc674254925c29ff18732a68"
         fillColor="#ff8000">
       <bounds
           x="25"

@@ -2008,7 +2008,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-941608efe30a43af88167013b3aa9f92"
-      targetConnections="id-b61fecdaf11049038f6a00e1571f220b">
+      targetConnections="id-b61fecdaf11049038f6a00e1571f220b"
+      fillColor="#008080">
     <bounds
         x="1832"
         y="1078"

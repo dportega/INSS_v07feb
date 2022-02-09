@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-136c080567164bc99fc091fd814f8f53">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-defuncintm.xml#fasederesolucinycierre-defuncintm"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-df7aebe5951a42bc9bdab1e49062ef32.xml#id-df7aebe5951a42bc9bdab1e49062ef32"/>
+</archimate:CompositionRelationship>
