@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-248aa1debee34a03af184556b4c9ee80">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-a3c091b4152648b4b347e6133e733f8b.xml#id-a3c091b4152648b4b347e6133e733f8b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_atrium.xml#atrium"/>
+</archimate:AssociationRelationship>

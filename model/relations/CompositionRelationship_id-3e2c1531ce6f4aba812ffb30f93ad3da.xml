@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3e2c1531ce6f4aba812ffb30f93ad3da">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-a46be30e968744b384806eb18a8d9659.xml#id-a46be30e968744b384806eb18a8d9659"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tuss.xml#tuss"/>
+</archimate:CompositionRelationship>
