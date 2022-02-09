@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-819d04aa77714dbd83f0a81dddcb575b">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-f086bd734f534ea6b2f414536b2664e4.xml#id-f086bd734f534ea6b2f414536b2664e4"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-viudedadta.xml#fasedecaptura-viudedadta"/>
+</archimate:ServingRelationship>

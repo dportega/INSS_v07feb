@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f16979c3bb5f4b83b33a77197ac7f1aa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tesol.xml#tesol"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-f7a0b56084364341ad8473138bd97d31.xml#id-f7a0b56084364341ad8473138bd97d31"/>
+</archimate:AssociationRelationship>

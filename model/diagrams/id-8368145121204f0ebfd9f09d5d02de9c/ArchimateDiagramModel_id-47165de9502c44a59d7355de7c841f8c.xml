@@ -33,7 +33,7 @@
           href="ServingRelationship_id-1f888684de574f9ba98655041af88de9.xml#id-1f888684de574f9ba98655041af88de9"/>
     </sourceConnections>
     <bounds
-        x="684"
+        x="924"
         y="912"
         width="289"
         height="169"/>
@@ -41,12 +41,12 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-e5590989654f435bb95f1ebde5a470de"
         textAlignment="1"
-        content="Escritura/Lectura&#xD;&#xA;Batch&#xD;&#xA;Planificado">
+        content="Batch&#xD;&#xA;Planificado">
       <bounds
           x="48"
-          y="96"
+          y="108"
           width="169"
-          height="61"/>
+          height="49"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -166,17 +166,17 @@
         x="-336"
         y="216"
         width="253"
-        height="433"/>
+        height="409"/>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="id-75442cb8f9f84ee793c56efa3eae839a"
         textAlignment="1"
-        content="Lectura&#xD;&#xA;Procedimiento almacenado/Natural&#xD;&#xA;Online">
+        content="Procedimiento almacenado/Natural&#xD;&#xA;Online">
       <bounds
           x="24"
           y="336"
           width="205"
-          height="61"/>
+          height="49"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -240,7 +240,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2848ecce3a134aee98bec8793811b627"
-      targetConnections="id-e15f113e37a84abfb60e36f1981b0ee7 id-de29ad73086a4032947f1dd162b3a9a3">
+      targetConnections="id-e15f113e37a84abfb60e36f1981b0ee7 id-de29ad73086a4032947f1dd162b3a9a3 id-78b750cede804e51a3436e9bf2b8a7f1 id-391df9ac3685473eabf8b3e1212b49e7 id-d916cea964ad40f0921a6b92c53c11d6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-525a1b95072f4bac8dfe8b708f25204f"
@@ -277,10 +277,37 @@
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-1d56027f27724c1585e7327f86220721.xml#id-1d56027f27724c1585e7327f86220721"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-46cdc97f29c34b99be719722be3db6e0"
+        source="id-2848ecce3a134aee98bec8793811b627"
+        target="id-74965ef8722242f4985be5e784803862">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-00f3b6eac3844416b06985a19d015484.xml#id-00f3b6eac3844416b06985a19d015484"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5525d4091bd9486d94ac179ab262e824"
+        source="id-2848ecce3a134aee98bec8793811b627"
+        target="id-d2fe6384b28a4ac7ab79447359d0e583">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-ed8ab451a57549d0a3e2a81d1ed848f0.xml#id-ed8ab451a57549d0a3e2a81d1ed848f0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-54a8cadf567b43e88165bc08ea5c3b92"
+        source="id-2848ecce3a134aee98bec8793811b627"
+        target="id-319bb91ab5ad4fad808b0d243daf7feb">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-bf11554449b04b11bf12885e5073f6a3.xml#id-bf11554449b04b11bf12885e5073f6a3"/>
+    </sourceConnections>
     <bounds
         x="72"
         y="192"
-        width="1105"
+        width="1405"
         height="457"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -565,10 +592,10 @@
             href="ServingRelationship_id-ada1b5c080104d98b8c031809242ce1c.xml#id-ada1b5c080104d98b8c031809242ce1c"/>
       </sourceConnections>
       <bounds
-          x="828"
-          y="41"
+          x="1176"
+          y="48"
           width="217"
-          height="248"/>
+          height="312"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8f113c6e6e9c4ca7bc33d6d1c9a580c1"
@@ -654,10 +681,10 @@
             href="ServingRelationship_id-e8878384210046afb94646cf3319cb80.xml#id-e8878384210046afb94646cf3319cb80"/>
       </sourceConnections>
       <bounds
-          x="504"
+          x="744"
           y="48"
           width="229"
-          height="157"/>
+          height="313"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-65da85fbf4c140d0a5b44ea9465570d9"
@@ -703,6 +730,72 @@
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_fasederesolucinycierre-indemnizacporfallecimientotm.xml#fasederesolucinycierre-indemnizacporfallecimientotm"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-74965ef8722242f4985be5e784803862"
+        targetConnections="id-46cdc97f29c34b99be719722be3db6e0">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-78b750cede804e51a3436e9bf2b8a7f1"
+          source="id-74965ef8722242f4985be5e784803862"
+          target="id-2848ecce3a134aee98bec8793811b627">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_umindemnizacinporfallecimientotmalfafasedetrmite-indemnizacporfallecimientotmServingRelationship.xml#umindemnizacinporfallecimientotmalfafasedetrmite-indemnizacporfallecimientotmServingRelationship"/>
+      </sourceConnections>
+      <bounds
+          x="432"
+          y="48"
+          width="144"
+          height="312"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_fasedetrmite-indemnizacporfallecimientotm.xml#fasedetrmite-indemnizacporfallecimientotm"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-d2fe6384b28a4ac7ab79447359d0e583"
+        targetConnections="id-5525d4091bd9486d94ac179ab262e824">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-391df9ac3685473eabf8b3e1212b49e7"
+          source="id-d2fe6384b28a4ac7ab79447359d0e583"
+          target="id-2848ecce3a134aee98bec8793811b627">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_umindemnizacinporfallecimientotmalfafasedeintervencin-indemnizacporfallecimientotmServingRelationship.xml#umindemnizacinporfallecimientotmalfafasedeintervencin-indemnizacporfallecimientotmServingRelationship"/>
+      </sourceConnections>
+      <bounds
+          x="588"
+          y="48"
+          width="144"
+          height="312"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_fasedeintervencin-indemnizacporfallecimientotm.xml#fasedeintervencin-indemnizacporfallecimientotm"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-319bb91ab5ad4fad808b0d243daf7feb"
+        targetConnections="id-54a8cadf567b43e88165bc08ea5c3b92">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-d916cea964ad40f0921a6b92c53c11d6"
+          source="id-319bb91ab5ad4fad808b0d243daf7feb"
+          target="id-2848ecce3a134aee98bec8793811b627">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_umindemnizacinporfallecimientotmalfafasedeimpresinyenvo-indemnizacporfallecimientotmServingRelationship.xml#umindemnizacinporfallecimientotmalfafasedeimpresinyenvo-indemnizacporfallecimientotmServingRelationship"/>
+      </sourceConnections>
+      <bounds
+          x="984"
+          y="48"
+          width="180"
+          height="312"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_fasedeimpresinyenvo-indemnizacporfallecimientotm.xml#fasedeimpresinyenvo-indemnizacporfallecimientotm"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_umindemnizacinporfallecimientotmalfa.xml#umindemnizacinporfallecimientotmalfa"/>
@@ -711,23 +804,23 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-40315925ca64461c81d77ee7d4a6c461"
       textAlignment="1"
-      content="Escritura/Lectura&#xD;&#xA;Invocada">
+      content="Invocada">
     <bounds
-        x="276"
+        x="300"
         y="852"
-        width="109"
-        height="37"/>
+        width="85"
+        height="25"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-877188d346f44806bdf7a1d365a14b20"
       textAlignment="1"
-      content="Lectura&#xD;&#xA;Invocante">
+      content="Invocante">
     <bounds
-        x="480"
+        x="468"
         y="852"
         width="85"
-        height="37"/>
+        height="25"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -754,10 +847,10 @@
           href="CompositionRelationship_id-2b16da0c894d4306aec37a1eef182472.xml#id-2b16da0c894d4306aec37a1eef182472"/>
     </sourceConnections>
     <bounds
-        x="1344"
-        y="216"
+        x="1692"
+        y="223"
         width="265"
-        height="349"/>
+        height="337"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7d61ed0521934644a1d80088fa381cd1"
@@ -776,12 +869,12 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-508948af6bcb4e018e0d6e14b591981e"
         textAlignment="1"
-        content="Lectura&#xD;&#xA;Batch&#xD;&#xA;Planificado">
+        content="Batch&#xD;&#xA;Planificado">
       <bounds
           x="36"
           y="264"
           width="145"
-          height="61"/>
+          height="49"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

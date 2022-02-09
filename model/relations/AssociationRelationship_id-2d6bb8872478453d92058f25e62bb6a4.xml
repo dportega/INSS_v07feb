@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2d6bb8872478453d92058f25e62bb6a4">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-bbe26e8000914e788eb07de405367fce.xml#id-bbe26e8000914e788eb07de405367fce"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_tuss.xml#tuss"/>
+</archimate:AssociationRelationship>
