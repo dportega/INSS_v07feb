@@ -25,7 +25,7 @@
       value="Lectura"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-incapacidadpermanenteta.xml#fasedecaptura-incapacidadpermanenteta"/>
+      href="ApplicationFunction_id-321adeabba264a99808270bbf8272399.xml#id-321adeabba264a99808270bbf8272399"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_sepe.xml#sepe"/>

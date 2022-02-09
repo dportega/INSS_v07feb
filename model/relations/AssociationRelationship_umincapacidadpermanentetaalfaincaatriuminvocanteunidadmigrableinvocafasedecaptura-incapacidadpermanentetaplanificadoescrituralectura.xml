@@ -25,7 +25,7 @@
       value="Interna del centro"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-incapacidadpermanenteta.xml#fasedecaptura-incapacidadpermanenteta"/>
+      href="ApplicationFunction_id-c71fde867c00493d9c11d1f943dec3ec.xml#id-c71fde867c00493d9c11d1f943dec3ec"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_incaatrium.xml#incaatrium"/>
