@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b6a9c12432894730987ce47a6b863268">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-72353d666049415ebef8517117baed91.xml#id-72353d666049415ebef8517117baed91"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gesfir.xml#gesfir"/>
+</archimate:CompositionRelationship>

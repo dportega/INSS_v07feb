@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-066786d359f84d50950f593e7eee4c5e">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-favordefamiliarestm.xml#fasedecaptura-favordefamiliarestm"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-24a3d82c60f04fa8892c17d324a01c98.xml#id-24a3d82c60f04fa8892c17d324a01c98"/>
+</archimate:CompositionRelationship>

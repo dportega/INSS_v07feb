@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2df40c1146634abe8bc41631f0f8708c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umfavordefamiliarestmalfa.xml#umfavordefamiliarestmalfa"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-4d74a76518114c30bc1ab82eb4bfa24c.xml#id-4d74a76518114c30bc1ab82eb4bfa24c"/>
+</archimate:AssignmentRelationship>

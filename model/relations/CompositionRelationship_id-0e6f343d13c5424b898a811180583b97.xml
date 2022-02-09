@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0e6f343d13c5424b898a811180583b97">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-favordefamiliarestm.xml#fasederesolucinycierre-favordefamiliarestm"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-276b85fca87b447696060e16b9b50010.xml#id-276b85fca87b447696060e16b9b50010"/>
+</archimate:CompositionRelationship>
