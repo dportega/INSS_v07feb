@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9262915d4c064f28afad89263b8dc06d">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1c76411400b84a668069fc144a097c94.xml#id-1c76411400b84a668069fc144a097c94"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-indemnizacporfallecimientotm.xml#fasedecaptura-indemnizacporfallecimientotm"/>
+</archimate:ServingRelationship>
