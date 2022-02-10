@@ -191,10 +191,19 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bd9d7dd150ec4bf58aed5d19e969c962"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-85298fff54d64d5a92be09b203d4e406"
+        source="id-bd9d7dd150ec4bf58aed5d19e969c962"
+        target="id-00d121b4898c41b28f37d72351f0fa6b">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-724ac12dd78346d4a0064f3a0c13b049.xml#id-724ac12dd78346d4a0064f3a0c13b049"/>
+    </sourceConnections>
     <bounds
-        x="624"
+        x="492"
         y="730"
-        width="253"
+        width="385"
         height="205"/>
     <children
         xsi:type="archimate:DiagramModelNote"
@@ -202,10 +211,23 @@
         textAlignment="1"
         content="Procedimiento almacenado/Natural&#xD;&#xA;Online">
       <bounds
-          x="24"
+          x="156"
           y="134"
           width="204"
           height="48"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-00d121b4898c41b28f37d72351f0fa6b"
+        targetConnections="id-95224a61118349b282eeec9587c5d3f4 id-ceabb948bcc34cacbec24b58abaafd7b id-85298fff54d64d5a92be09b203d4e406">
+      <bounds
+          x="12"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_atrium.xml#atrium"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -734,21 +756,32 @@
             source="id-9fdf392046b549d89c0170fb9d9f2b97"
             target="id-c9ab32946326468da43ab0e59bebbb4d">
           <bendpoints
-              startX="-60"
-              startY="165"
-              endX="444"
-              endY="-39"/>
+              startX="-108"
+              startY="-2"
+              endX="876"
+              endY="-530"/>
           <bendpoints
-              startX="-504"
-              startY="165"
-              endY="-39"/>
+              startX="-108"
+              startY="394"
+              endX="876"
+              endY="-134"/>
+          <bendpoints
+              startX="-540"
+              startY="394"
+              endX="444"
+              endY="-134"/>
+          <bendpoints
+              startX="-540"
+              startY="526"
+              endX="444"
+              endY="-2"/>
           <archimateRelationship
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_umorfandadtaalfaincaatriuminvocanteunidadmigrableinvocafasedecaptura-orfandadtaplanificadoescrituralectura.xml#umorfandadtaalfaincaatriuminvocanteunidadmigrableinvocafasedecaptura-orfandadtaplanificadoescrituralectura"/>
         </sourceConnections>
         <bounds
-            x="204"
-            y="252"
+            x="396"
+            y="36"
             width="120"
             height="55"/>
         <archimateElement
@@ -765,27 +798,21 @@
             source="id-788a0fe58da5451eba336b1b8a20f2c7"
             target="id-eab47a55e9604d87a25493f983bb29ea">
           <bendpoints
-              startX="-108"
-              startY="-3"
-              endX="876"
-              endY="-531"/>
+              startX="-60"
+              startY="166"
+              endX="444"
+              endY="-38"/>
           <bendpoints
-              startX="-108"
-              startY="465"
-              endX="876"
-              endY="-63"/>
-          <bendpoints
-              startX="-972"
-              startY="465"
-              endX="12"
-              endY="-63"/>
+              startX="-504"
+              startY="166"
+              endY="-38"/>
           <archimateRelationship
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_umorfandadtaalfaincainvocanteunidadmigrableinvocafasedecaptura-orfandadtaonlinelectura.xml#umorfandadtaalfaincainvocanteunidadmigrableinvocafasedecaptura-orfandadtaonlinelectura"/>
         </sourceConnections>
         <bounds
-            x="396"
-            y="36"
+            x="204"
+            y="252"
             width="120"
             height="55"/>
         <archimateElement
@@ -802,19 +829,10 @@
             source="id-5ebba3f2c44d491ba6a30fa965f81b71"
             target="id-00d121b4898c41b28f37d72351f0fa6b">
           <bendpoints
-              startX="-96"
-              startY="-3"
-              endX="744"
-              endY="-459"/>
-          <bendpoints
-              startX="-96"
-              startY="405"
-              endX="744"
-              endY="-51"/>
-          <bendpoints
-              startX="-840"
-              startY="405"
-              endY="-51"/>
+              startX="-72"
+              startY="-2"
+              endX="-36"
+              endY="-432"/>
           <archimateRelationship
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_umorfandadtaalfaatriuminvocanteunidadmigrableinvocafasedecaptura-orfandadtadiferidoescrituralectura.xml#umorfandadtaalfaatriuminvocanteunidadmigrableinvocafasedecaptura-orfandadtadiferidoescrituralectura"/>
@@ -837,21 +855,6 @@
             id="id-95224a61118349b282eeec9587c5d3f4"
             source="id-00909b9b116848758d2a482256552ad7"
             target="id-00d121b4898c41b28f37d72351f0fa6b">
-          <bendpoints
-              startX="-84"
-              startY="-3"
-              endX="756"
-              endY="-387"/>
-          <bendpoints
-              startX="-84"
-              startY="345"
-              endX="756"
-              endY="-39"/>
-          <bendpoints
-              startX="-828"
-              startY="345"
-              endX="12"
-              endY="-39"/>
           <archimateRelationship
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_umorfandadtaalfaatriuminvocadaunidadmigrableesinvocadafasedecaptura-orfandadtadiferidoescrituralectura.xml#umorfandadtaalfaatriuminvocadaunidadmigrableesinvocadafasedecaptura-orfandadtadiferidoescrituralectura"/>
@@ -1463,8 +1466,8 @@
       id="id-c9ab32946326468da43ab0e59bebbb4d"
       targetConnections="id-13ec6d7a671747be9a6f9b7eadf6ba38">
     <bounds
-        x="-156"
-        y="696"
+        x="-444"
+        y="804"
         width="120"
         height="55"/>
     <archimateElement
@@ -1476,26 +1479,13 @@
       id="id-eab47a55e9604d87a25493f983bb29ea"
       targetConnections="id-00b41e91d5944578ac5b85ed754392cb">
     <bounds
-        x="-444"
-        y="804"
+        x="-156"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_inca.xml#inca"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-00d121b4898c41b28f37d72351f0fa6b"
-      targetConnections="id-95224a61118349b282eeec9587c5d3f4 id-ceabb948bcc34cacbec24b58abaafd7b">
-    <bounds
-        x="-300"
-        y="804"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_atrium.xml#atrium"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

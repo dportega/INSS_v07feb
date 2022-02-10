@@ -208,7 +208,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d532c0d632fd46de8cf8392979b59c12"
-      targetConnections="id-41a4134b047e4612910e645558f98f8f id-fcbbda313f87444d880d4b5bd20647ba id-4211390f537a42e085a2a2453eca2143 id-a2b1f2f838744761b123ebffc773610a id-f0fa177b144b4fda9411db917722fdeb">
+      targetConnections="id-41a4134b047e4612910e645558f98f8f">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-cad4bbc262bf47358bab421de20b91e3"
@@ -227,46 +227,10 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_jubilacinumjubilacinpremiumalfaServingRelationship.xml#jubilacinumjubilacinpremiumalfaServingRelationship"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0ed733f4cff94d3a9d8e1374b0ea1fe3"
-        source="id-d532c0d632fd46de8cf8392979b59c12"
-        target="id-aff4dc057d464dbfa7b5236273a4291d">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-9631906ce62f49c2bf58da6d5bf25d31.xml#id-9631906ce62f49c2bf58da6d5bf25d31"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-bf268057e90540be8471a7c1272f2430"
-        source="id-d532c0d632fd46de8cf8392979b59c12"
-        target="id-76e3bab76b634e0ca578e18fb67c8429">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-354cc1e11d634af29577a4da57de7f72.xml#id-354cc1e11d634af29577a4da57de7f72"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4a49e95f3d2a463a8e7c7d60edd8cc06"
-        source="id-d532c0d632fd46de8cf8392979b59c12"
-        target="id-6b6783690256471394a7b312796e4cdb">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-979a4c7cd8b04ea098e9165cf6534cc0.xml#id-979a4c7cd8b04ea098e9165cf6534cc0"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a65c1d71969547f1b1fe11b20864903e"
-        source="id-d532c0d632fd46de8cf8392979b59c12"
-        target="id-6dbbe77fc6894155b578c3f59f26196f">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-05605eeb727541a58c8475fbd392d287.xml#id-05605eeb727541a58c8475fbd392d287"/>
-    </sourceConnections>
     <bounds
-        x="324"
+        x="432"
         y="198"
-        width="1177"
+        width="649"
         height="349"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -368,7 +332,7 @@
             href="ServingRelationship_umjubilacinpremiumalfafasedetrmite-jubilacinpremiumServingRelationship.xml#umjubilacinpremiumalfafasedetrmite-jubilacinpremiumServingRelationship"/>
       </sourceConnections>
       <bounds
-          x="168"
+          x="60"
           y="60"
           width="541"
           height="253"/>
@@ -559,94 +523,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_fasedetrmite-jubilacinpremium.xml#fasedetrmite-jubilacinpremium"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-aff4dc057d464dbfa7b5236273a4291d"
-        targetConnections="id-0ed733f4cff94d3a9d8e1374b0ea1fe3">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-fcbbda313f87444d880d4b5bd20647ba"
-          source="id-aff4dc057d464dbfa7b5236273a4291d"
-          target="id-d532c0d632fd46de8cf8392979b59c12">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_umjubilacinpremiumalfafasedecaptura-jubilacinpremiumServingRelationship.xml#umjubilacinpremiumalfafasedecaptura-jubilacinpremiumServingRelationship"/>
-      </sourceConnections>
-      <bounds
-          x="24"
-          y="60"
-          width="132"
-          height="253"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationFunction"
-          href="ApplicationFunction_fasedecaptura-jubilacinpremium.xml#fasedecaptura-jubilacinpremium"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-76e3bab76b634e0ca578e18fb67c8429"
-        targetConnections="id-bf268057e90540be8471a7c1272f2430">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-4211390f537a42e085a2a2453eca2143"
-          source="id-76e3bab76b634e0ca578e18fb67c8429"
-          target="id-d532c0d632fd46de8cf8392979b59c12">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_umjubilacinpremiumalfafasedeintervencin-jubilacinpremiumServingRelationship.xml#umjubilacinpremiumalfafasedeintervencin-jubilacinpremiumServingRelationship"/>
-      </sourceConnections>
-      <bounds
-          x="720"
-          y="60"
-          width="144"
-          height="253"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationFunction"
-          href="ApplicationFunction_fasedeintervencin-jubilacinpremium.xml#fasedeintervencin-jubilacinpremium"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6b6783690256471394a7b312796e4cdb"
-        targetConnections="id-4a49e95f3d2a463a8e7c7d60edd8cc06">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-a2b1f2f838744761b123ebffc773610a"
-          source="id-6b6783690256471394a7b312796e4cdb"
-          target="id-d532c0d632fd46de8cf8392979b59c12">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_umjubilacinpremiumalfafasederesolucinycierre-jubilacinpremiumServingRelationship.xml#umjubilacinpremiumalfafasederesolucinycierre-jubilacinpremiumServingRelationship"/>
-      </sourceConnections>
-      <bounds
-          x="876"
-          y="60"
-          width="132"
-          height="253"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationFunction"
-          href="ApplicationFunction_fasederesolucinycierre-jubilacinpremium.xml#fasederesolucinycierre-jubilacinpremium"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6dbbe77fc6894155b578c3f59f26196f"
-        targetConnections="id-a65c1d71969547f1b1fe11b20864903e">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-f0fa177b144b4fda9411db917722fdeb"
-          source="id-6dbbe77fc6894155b578c3f59f26196f"
-          target="id-d532c0d632fd46de8cf8392979b59c12">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_umjubilacinpremiumalfafasedeimpresinyenvo-jubilacinpremiumServingRelationship.xml#umjubilacinpremiumalfafasedeimpresinyenvo-jubilacinpremiumServingRelationship"/>
-      </sourceConnections>
-      <bounds
-          x="1020"
-          y="60"
-          width="132"
-          height="253"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationFunction"
-          href="ApplicationFunction_fasedeimpresinyenvo-jubilacinpremium.xml#fasedeimpresinyenvo-jubilacinpremium"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
