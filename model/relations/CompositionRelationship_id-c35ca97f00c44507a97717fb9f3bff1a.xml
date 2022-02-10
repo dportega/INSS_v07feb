@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c35ca97f00c44507a97717fb9f3bff1a">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-9529c70026d04886b6e051c3f724d707.xml#id-9529c70026d04886b6e051c3f724d707"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_incaatrium.xml#incaatrium"/>
+</archimate:CompositionRelationship>
