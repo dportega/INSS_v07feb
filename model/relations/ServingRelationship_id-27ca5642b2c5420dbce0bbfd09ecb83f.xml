@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-27ca5642b2c5420dbce0bbfd09ecb83f">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedeimpresinyenvo-defuncinta.xml#fasedeimpresinyenvo-defuncinta"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-ed5363bf001e4670899df304189ec0a6.xml#id-ed5363bf001e4670899df304189ec0a6"/>
+</archimate:ServingRelationship>

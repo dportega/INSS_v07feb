@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f6e41e2b63f840b6be8ef2fbf35379d8">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-incapacidadpermanenteta.xml#fasedecaptura-incapacidadpermanenteta"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-aac137aaf5ed4ea5a80579357de93dff.xml#id-aac137aaf5ed4ea5a80579357de93dff"/>
+</archimate:ServingRelationship>
