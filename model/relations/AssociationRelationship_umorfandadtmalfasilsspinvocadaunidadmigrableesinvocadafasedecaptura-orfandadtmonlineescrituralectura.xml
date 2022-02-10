@@ -25,7 +25,7 @@
       value="Online"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-orfandadtm.xml#fasedecaptura-orfandadtm"/>
+      href="ApplicationFunction_id-cd553244732b44dfa665f232dacfff61.xml#id-cd553244732b44dfa665f232dacfff61"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_silssp.xml#silssp"/>

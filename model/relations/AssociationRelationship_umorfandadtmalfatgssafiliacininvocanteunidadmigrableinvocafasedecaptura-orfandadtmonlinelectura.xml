@@ -25,7 +25,7 @@
       value="Invocante (Unidad migrable invoca)"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-orfandadtm.xml#fasedecaptura-orfandadtm"/>
+      href="ApplicationFunction_id-4fd817eab78545ea89ded4cb963536d5.xml#id-4fd817eab78545ea89ded4cb963536d5"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_tgssafiliacin.xml#tgssafiliacin"/>

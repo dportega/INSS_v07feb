@@ -25,7 +25,7 @@
       value="Diferido"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-orfandadta.xml#fasedecaptura-orfandadta"/>
+      href="ApplicationFunction_id-3dfc68c071524d91a7389b7fd6a6e66b.xml#id-3dfc68c071524d91a7389b7fd6a6e66b"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_atrium.xml#atrium"/>

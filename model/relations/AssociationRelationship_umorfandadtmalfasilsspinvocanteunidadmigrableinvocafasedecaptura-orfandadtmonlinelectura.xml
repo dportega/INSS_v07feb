@@ -25,7 +25,7 @@
       value="Bases cotizadas, antecedentes, datos personales, datos complemento brecha género, histórico pagos, violencia género, confirmación certifiicados TUSS, datos personales DATA, cruce fallecidos."/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-orfandadtm.xml#fasedecaptura-orfandadtm"/>
+      href="ApplicationFunction_id-8dc56115ea53412fac01fcaadfee371d.xml#id-8dc56115ea53412fac01fcaadfee371d"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_silssp.xml#silssp"/>
