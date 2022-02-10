@@ -25,7 +25,7 @@
       value="Consulta datos vida laboral, jornadas, datos empresa, candidatos de un IPF,"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-orfandadta.xml#fasedecaptura-orfandadta"/>
+      href="ApplicationFunction_id-4fd817eab78545ea89ded4cb963536d5.xml#id-4fd817eab78545ea89ded4cb963536d5"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_tgssafiliacin.xml#tgssafiliacin"/>

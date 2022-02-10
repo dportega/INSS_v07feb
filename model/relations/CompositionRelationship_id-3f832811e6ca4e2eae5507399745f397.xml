@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3f832811e6ca4e2eae5507399745f397">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-orfandadta.xml#fasedecaptura-orfandadta"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-f7a0b56084364341ad8473138bd97d31.xml#id-f7a0b56084364341ad8473138bd97d31"/>
+</archimate:CompositionRelationship>
