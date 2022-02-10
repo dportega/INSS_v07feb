@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-94edbe1cbbff4e3a859b022965c20fcb">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-orfandadtm.xml#fasederesolucinycierre-orfandadtm"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-12fecf45123542cab10a3dd9cc422d40.xml#id-12fecf45123542cab10a3dd9cc422d40"/>
+</archimate:ServingRelationship>

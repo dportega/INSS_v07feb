@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-05605eeb727541a58c8475fbd392d287">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umjubilacinpremiumalfa.xml#umjubilacinpremiumalfa"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedeimpresinyenvo-jubilacinpremium.xml#fasedeimpresinyenvo-jubilacinpremium"/>
+</archimate:AssignmentRelationship>
