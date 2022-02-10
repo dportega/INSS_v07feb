@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-df9196de3d16408d86aff37f680264cc">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umviudedadtmalfa.xml#umviudedadtmalfa"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-viudedadtm.xml#fasederesolucinycierre-viudedadtm"/>
+</archimate:AssignmentRelationship>

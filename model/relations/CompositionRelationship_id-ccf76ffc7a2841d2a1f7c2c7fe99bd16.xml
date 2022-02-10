@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ccf76ffc7a2841d2a1f7c2c7fe99bd16">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-viudedadtm.xml#fasedecaptura-viudedadtm"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-a2925e7f60f441dfbd593bd16be097cd.xml#id-a2925e7f60f441dfbd593bd16be097cd"/>
+</archimate:CompositionRelationship>

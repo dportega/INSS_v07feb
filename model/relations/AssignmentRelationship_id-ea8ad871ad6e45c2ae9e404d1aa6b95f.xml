@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ea8ad871ad6e45c2ae9e404d1aa6b95f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umviudedadtmalfa.xml#umviudedadtmalfa"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-4d74a76518114c30bc1ab82eb4bfa24c.xml#id-4d74a76518114c30bc1ab82eb4bfa24c"/>
+</archimate:AssignmentRelationship>
