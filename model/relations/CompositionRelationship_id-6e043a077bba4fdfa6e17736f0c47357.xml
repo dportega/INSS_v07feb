@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6e043a077bba4fdfa6e17736f0c47357">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedetrmite-viudedadta.xml#fasedetrmite-viudedadta"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-dbe6c857eea94da1974bb4e2588a1a00.xml#id-dbe6c857eea94da1974bb4e2588a1a00"/>
+</archimate:CompositionRelationship>

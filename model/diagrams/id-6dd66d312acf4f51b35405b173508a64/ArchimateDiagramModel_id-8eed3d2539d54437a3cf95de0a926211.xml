@@ -1374,14 +1374,14 @@
               endX="2460"
               endY="-470"/>
           <bendpoints
-              startX="612"
-              startY="838"
+              startX="611"
+              startY="849"
               endX="2460"
-              endY="370"/>
+              endY="357"/>
           <bendpoints
-              startX="-1848"
-              startY="838"
-              endY="370"/>
+              startX="-1849"
+              startY="849"
+              endY="357"/>
           <archimateRelationship
               xsi:type="archimate:AssociationRelationship"
               href="AssociationRelationship_id-94baba3e981a4e88bc39ed89fb6afbe4.xml#id-94baba3e981a4e88bc39ed89fb6afbe4"/>
