@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5ce4348035bc4963a74b4c62c9af63ca">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umdefuncinoauxiliopordefuncintmalfa.xml#umdefuncinoauxiliopordefuncintmalfa"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-364d4ed0a3d545f5a675a45867c8eae1.xml#id-364d4ed0a3d545f5a675a45867c8eae1"/>
+</archimate:ServingRelationship>

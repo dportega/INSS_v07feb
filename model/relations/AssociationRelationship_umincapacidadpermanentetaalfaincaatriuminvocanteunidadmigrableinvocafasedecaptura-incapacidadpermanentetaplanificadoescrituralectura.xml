@@ -28,5 +28,5 @@
       href="ApplicationFunction_id-c71fde867c00493d9c11d1f943dec3ec.xml#id-c71fde867c00493d9c11d1f943dec3ec"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_incaatrium.xml#incaatrium"/>
+      href="ApplicationComponent_inca.xml#inca"/>
 </archimate:AssociationRelationship>
