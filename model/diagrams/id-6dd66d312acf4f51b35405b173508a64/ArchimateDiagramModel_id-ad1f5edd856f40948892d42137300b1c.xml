@@ -407,8 +407,8 @@
       targetConnections="id-cadaefb8da2b4d26b8c26c9ac4ab6597"
       font="1|Segoe UI|24.0|0|WINDOWS|1|-32|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
     <bounds
-        x="72"
-        width="1177"
+        x="84"
+        width="1081"
         height="91"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
