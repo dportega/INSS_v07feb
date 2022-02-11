@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bed749c229da44029150a724fb01c781">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umlesionespermanentesnoinvalidantestmalfa.xml#umlesionespermanentesnoinvalidantestmalfa"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedetrmite-lesionespermanentesnoinvalidantestm.xml#fasedetrmite-lesionespermanentesnoinvalidantestm"/>
+</archimate:AssignmentRelationship>

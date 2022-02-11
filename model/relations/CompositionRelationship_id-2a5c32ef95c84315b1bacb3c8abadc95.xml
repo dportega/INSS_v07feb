@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2a5c32ef95c84315b1bacb3c8abadc95">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedecaptura-lesionespermanentesnoinvalidantestm.xml#fasedecaptura-lesionespermanentesnoinvalidantestm"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-24a3d82c60f04fa8892c17d324a01c98.xml#id-24a3d82c60f04fa8892c17d324a01c98"/>
+</archimate:CompositionRelationship>
