@@ -511,10 +511,10 @@
           source="id-7aa7f4f87ab241b1ae3d3e356646bf5d"
           target="id-c469bc0292b44263ac5e5410c7ed4644">
         <bendpoints
-            startX="-294"
+            startX="-293"
             startY="-144"
             endX="216"
-            endY="-186"/>
+            endY="-180"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-57acc02c3e2e4e05960c82ba8e1df357.xml#id-57acc02c3e2e4e05960c82ba8e1df357"/>
@@ -1176,8 +1176,8 @@
       id="id-e0c8dc1d7eb74695a0636a96a2809ae9"
       targetConnections="id-857fd34499d2424195764f3625efd7d1">
     <bounds
-        x="-179"
-        y="180"
+        x="-239"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
