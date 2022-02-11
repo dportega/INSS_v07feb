@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f425bff83a5c4e8c8f07e84593652ba1">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedeimpresinyenvo-lesionespermanentesnoinvalidantesta.xml#fasedeimpresinyenvo-lesionespermanentesnoinvalidantesta"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-321adeabba264a99808270bbf8272399.xml#id-321adeabba264a99808270bbf8272399"/>
+</archimate:CompositionRelationship>

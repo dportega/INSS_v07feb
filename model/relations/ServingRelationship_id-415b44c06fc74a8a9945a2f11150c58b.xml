@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-415b44c06fc74a8a9945a2f11150c58b">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedeimpresinyenvo-lesionespermanentesnoinvalidantesta.xml#fasedeimpresinyenvo-lesionespermanentesnoinvalidantesta"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1688e7d8778d495e9401ae392896721f.xml#id-1688e7d8778d495e9401ae392896721f"/>
+</archimate:ServingRelationship>

@@ -25,7 +25,7 @@
       value="Lectura"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-lesionespermanentesnoinvalidantesta.xml#fasedecaptura-lesionespermanentesnoinvalidantesta"/>
+      href="ApplicationFunction_id-fc1702a8ce5845ff9190b3e091019f73.xml#id-fc1702a8ce5845ff9190b3e091019f73"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_tgssrecaudacin.xml#tgssrecaudacin"/>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-62fb9c3fb78941e8a5b42b5df7861297">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umlesionespermanentesnoinvalidantestmalfa.xml#umlesionespermanentesnoinvalidantestmalfa"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-364d4ed0a3d545f5a675a45867c8eae1.xml#id-364d4ed0a3d545f5a675a45867c8eae1"/>
+</archimate:ServingRelationship>

@@ -25,7 +25,7 @@
       value="Fase de Impresión y envío - Lesiones Permanentes No Invalidantes (TA)"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedeimpresinyenvo-lesionespermanentesnoinvalidantesta.xml#fasedeimpresinyenvo-lesionespermanentesnoinvalidantesta"/>
+      href="ApplicationFunction_id-321adeabba264a99808270bbf8272399.xml#id-321adeabba264a99808270bbf8272399"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_sepe.xml#sepe"/>
