@@ -25,7 +25,7 @@
       value="Interna del centro"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedetrmite-incapacidadpermanentetm.xml#fasedetrmite-incapacidadpermanentetm"/>
+      href="ApplicationFunction_id-849f0030d8ec4da4bcd1d482525f3869.xml#id-849f0030d8ec4da4bcd1d482525f3869"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_sartido.xml#sartido"/>
