@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ee3fd75f130b4aec92c70fb727bf4ebf">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-incapacidadpermanenteparcialta.xml#fasederesolucinycierre-incapacidadpermanenteparcialta"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-df7aebe5951a42bc9bdab1e49062ef32.xml#id-df7aebe5951a42bc9bdab1e49062ef32"/>
+</archimate:CompositionRelationship>

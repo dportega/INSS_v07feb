@@ -25,7 +25,7 @@
       value="Servicio de verificación de datos de identidad de la policía."/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-incapacidadpermanenteparcialta.xml#fasedecaptura-incapacidadpermanenteparcialta"/>
+      href="ApplicationFunction_id-728a632a72a84194a89cab73a7318fe7.xml#id-728a632a72a84194a89cab73a7318fe7"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_polica.xml#polica"/>

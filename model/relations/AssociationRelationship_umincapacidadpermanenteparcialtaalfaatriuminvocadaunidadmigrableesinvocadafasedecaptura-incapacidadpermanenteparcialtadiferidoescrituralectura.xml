@@ -25,7 +25,7 @@
       value="Procedimiento almacenado/Natural"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedecaptura-incapacidadpermanenteparcialta.xml#fasedecaptura-incapacidadpermanenteparcialta"/>
+      href="ApplicationFunction_id-a3c091b4152648b4b347e6133e733f8b.xml#id-a3c091b4152648b4b347e6133e733f8b"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_atrium.xml#atrium"/>
