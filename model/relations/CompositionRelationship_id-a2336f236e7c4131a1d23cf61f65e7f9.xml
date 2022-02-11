@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a2336f236e7c4131a1d23cf61f65e7f9">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-lesionespermanentesnoinvalidantesta.xml#fasederesolucinycierre-lesionespermanentesnoinvalidantesta"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-c71fde867c00493d9c11d1f943dec3ec.xml#id-c71fde867c00493d9c11d1f943dec3ec"/>
+</archimate:CompositionRelationship>
