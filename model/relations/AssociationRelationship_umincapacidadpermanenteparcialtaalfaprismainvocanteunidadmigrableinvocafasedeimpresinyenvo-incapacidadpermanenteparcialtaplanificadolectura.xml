@@ -25,7 +25,7 @@
       value="Envío a PRISMA (Aplicación de consulta de estadísticas de las aplicaciones del INSS) Ficheros de estadísticas diarias y mensuales de expedientes de ALFA"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedeimpresinyenvo-incapacidadpermanenteparcialta.xml#fasedeimpresinyenvo-incapacidadpermanenteparcialta"/>
+      href="ApplicationFunction_id-28e78f1e9e20416d9ba792b1cb766670.xml#id-28e78f1e9e20416d9ba792b1cb766670"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_prisma.xml#prisma"/>
