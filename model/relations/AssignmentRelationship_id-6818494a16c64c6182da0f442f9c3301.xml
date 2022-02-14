@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6818494a16c64c6182da0f442f9c3301">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umincapacidadpermanenteparcialtmalfa.xml#umincapacidadpermanenteparcialtmalfa"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasedeintervencin-incapacidadpermanenteparcialtm.xml#fasedeintervencin-incapacidadpermanenteparcialtm"/>
+</archimate:AssignmentRelationship>

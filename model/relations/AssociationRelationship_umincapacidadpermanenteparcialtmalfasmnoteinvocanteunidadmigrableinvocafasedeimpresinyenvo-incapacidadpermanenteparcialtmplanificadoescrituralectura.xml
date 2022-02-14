@@ -25,7 +25,7 @@
       value="Fase de Impresión y envío - Incapacidad Permanente Parcial (TM)"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_fasedeimpresinyenvo-incapacidadpermanenteparcialtm.xml#fasedeimpresinyenvo-incapacidadpermanenteparcialtm"/>
+      href="ApplicationFunction_id-04c2c48dcc574a75874b24642920e653.xml#id-04c2c48dcc574a75874b24642920e653"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_smnote.xml#smnote"/>

@@ -1,0 +1,11 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-fc47b53b792e46d8a6381b252b6af871">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c14af0cd67174ec1b0631ff5253aebf9.xml#id-c14af0cd67174ec1b0631ff5253aebf9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_polica.xml#polica"/>
+</archimate:CompositionRelationship>

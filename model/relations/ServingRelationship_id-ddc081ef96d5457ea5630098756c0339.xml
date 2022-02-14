@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ddc081ef96d5457ea5630098756c0339">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-42b1763eb52b409cac3195c60d56d9bd.xml#id-42b1763eb52b409cac3195c60d56d9bd"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_fasederesolucinycierre-incapacidadpermanenteparcialtm.xml#fasederesolucinycierre-incapacidadpermanenteparcialtm"/>
+</archimate:ServingRelationship>
